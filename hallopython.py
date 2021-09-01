@@ -1,0 +1,10 @@
+if __name__ == '__main__':
+    hello= ("i and we are friends")
+    print (hello)
+    print (hello.replace("iandwe","they"))
+    print (hello.replace("hello",""))
+    print (hello.islower())
+    print (hello.find("and"))
+    print (hello.isupper())
+    print ("ahmed\tmorad")
+    print ("ahmed\nmorad")
